@@ -1,2 +1,2 @@
 # datasciencecoursera
-Part 2 of 4 - Course Project
+Parts 2 to 4 - Course Project
